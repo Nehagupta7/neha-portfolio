@@ -37,7 +37,10 @@ let clients = [
         disc: [
             "Used the Next.js framework.",
             "Built the admin panel.",
-            "Used the Material-UI frontend framework and Tailwind CSS."
+            "Used the Material-UI frontend framework and Tailwind CSS.",
+            "Create a multi-role dashboard.",
+            "Use microsoft365 login for authentication.",
+            "Use redux-toolkit for state management."
         ]
     },
     {
@@ -46,7 +49,10 @@ let clients = [
         disc: [
             "Used the Next.js 12 framework.",
             "Built the e-commerce application.",
-            "Used the Material-UI frontend framework."
+            "Used the Material-UI frontend framework.",,
+            "Add multistore shop.",
+            "Optimize speed and perfomance.",
+             "Use redux-toolkit for state management."
         ]
     },
     {
@@ -57,7 +63,8 @@ let clients = [
             "Implemented multi-role access with dynamic role views.",
             "Focused on UX improvements through intuitive design.",
             "Built client/server APIs ensuring smooth interaction.",
-            "Integrated multilingual support for global accessibility."
+            "Integrated multilingual support for global accessibility.",
+            "Public pages data in json that was map using createElement render method"
         ]
     }
 ];
